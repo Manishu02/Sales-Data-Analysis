@@ -79,5 +79,5 @@ This project demonstrates data cleaning, exploratory data analysis, and visualiz
 ---
 
 ## 👤 Author
-Manisha Shah
+## Manisha Shah
 Aspiring Data Analyst | Python | Data Visualization
